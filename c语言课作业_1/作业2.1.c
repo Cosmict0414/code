@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+    int x=32 , y=81,p,q;
+    p=x++;
+    q=--y;
+    printf("%d %d",x,y);
+}
