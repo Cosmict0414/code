@@ -1,0 +1,3 @@
+Name :      Tom 	Math :     100	English :     100	Chemistry :     100	Physics :     100	Average Score: 100.000000
+Name :     Jack 	Math :      90	English :      90	Chemistry :      90	Physics :      90	Average Score: 90.000000
+Name :    Dummy 	Math :      80	English :      80	Chemistry :      80	Physics :      80	Average Score: 80.000000
